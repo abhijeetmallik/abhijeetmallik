@@ -75,19 +75,19 @@
 
 <p align="center">
   <a href="https://github.com/abhijeetmallik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetmallik&theme=radical&border=7F3FBF&background=0D1117" alt="abhijeetmallik's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetmallik&theme=algolia&border=ffffff&background=050F2C" alt="abhijeetmallik's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abhijeetmallik">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetmallik&theme=radical" alt="abhijeetmallik's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetmallik&theme=algolia&border=7F3FBF&background=050F2C" alt="abhijeetmallik's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/abhijeetmallik"><img alt="abhijeetmallik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhijeetmallik&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/abhijeetmallik"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhijeetmallik&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/abhijeetmallik"><img alt="abhijeetmallik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhijeetmallik&show_icons=true&count_private=true&theme=algolia&border_color=ffffff&bg_color=050F2C&title_color=blue&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abhijeetmallik"><img alt="Abhijeet Mallik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhijeetmallik&langs_count=8&layout=compact&theme=algolia&border_color=ffffff&bg_color=050F2C&title_color=blue&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
