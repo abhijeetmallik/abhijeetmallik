@@ -48,11 +48,16 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💻 Tech Stack:</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,nextjs,mysql,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=figma" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,github" /> <br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,solidity" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,mysql,linux" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,bootstrap,tailwind" /> <br>
+<!--     <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,vscode,github,figma,tailwind,git" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,nextjs,mysql,linux" /><br> -->
 </div>
 
 <br/>
