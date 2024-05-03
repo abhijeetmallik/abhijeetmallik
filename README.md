@@ -27,9 +27,9 @@
  
  🔭 I’m currently working on **a video call application**
  
- 🌱 I’m currently learning **web3**
+ 🌱 I’m currently learning **Full Stack Development**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](abhijeetmallick3125@gmail.com)**
+💬 Ask me about **Node.js, MongoDB, Web3... or anything [here](https://abhijeetmallik.com/)**
 
 
  </div>
