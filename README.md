@@ -29,7 +29,7 @@
  
  🌱 I’m currently learning **web3**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](abhijeetmallick3125@gmail.com)**
 
 
  </div>
